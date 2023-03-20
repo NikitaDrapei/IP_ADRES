@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="IPAddress">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../IPAdress/IPAddress.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../IPAdress/IPAddress.jar!/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../IPAdress/IPAddress.jar!/" />
+    </SOURCES>
+  </library>
+</component>
